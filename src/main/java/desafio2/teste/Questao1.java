@@ -7,12 +7,11 @@ public class Questao1 {
 	public static void main(String[] args) {
 		int[] arr = { 9, 2, 1, 4, 6 };
 
-		Questao1 q1 = new Questao1();
-		int elMediano = q1.elementoMediano(arr);
+		int elMediano = elementoMediano(arr);
 		System.out.println("O elemento mediano da lista é: " + elMediano);
 	}
 
-	public int elementoMediano(int[] arr) {
+	public static int elementoMediano(int[] arr) {
 
 		int meioDaLista = 0;
 

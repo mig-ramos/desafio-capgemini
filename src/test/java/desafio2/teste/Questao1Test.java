@@ -6,6 +6,7 @@ import org.junit.Test;
 
 public class Questao1Test {
 
+	@SuppressWarnings("static-access")
 	@Test
 	public void testElementoMediano() {
 		
@@ -15,5 +16,4 @@ public class Questao1Test {
 		int elMediano = q1.elementoMediano(arr);
 		assertEquals(4, elMediano);
 	}
-
 }
