@@ -93,7 +93,7 @@ Na figura abaixo, temos as classes de teste:
 
 Selecionar o teste da questão desejada, escolher JUnit no menu da IDE, conforme figura abaixo:
 
-![](C:\Workspaces\ws-java\capgemini-2\desafio2\imgs\TesteQuestao1.png)
+![](https://github.com/mig-ramos/desafio-capgemini/blob/main/imgs/TesteQuestao1.png)
 
 
 
