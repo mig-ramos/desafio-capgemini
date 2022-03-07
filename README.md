@@ -99,11 +99,11 @@ Selecionar o teste da questão desejada, escolher JUnit no menu da IDE, conforme
 
 Como resultado a IDE mostra de forma colorida, no caso é verde, está tudo OK. Vide figura abaixo:
 
-![](C:\Workspaces\ws-java\capgemini-2\desafio2\imgs\testeverde.png)
+![](https://github.com/mig-ramos/desafio-capgemini/blob/main/imgs/testeverde.png)
 
 Ficar atento que o teste foi de igualdade, parte sublinhada da figura. O resultado foi 4 que era o esperado, se alterar o valor para a comparação, o teste vai dar negativo e vermelho, conforme figura abaixo.
 
-![](C:\Workspaces\ws-java\capgemini-2\desafio2\imgs\testevermelho.png)
+![](https://github.com/mig-ramos/desafio-capgemini/blob/main/imgs/testevermelho.png)
 
 Estes testes são direcionadas para o tipo de saídas das questões, este foi exemplo, existe possibilidade de comparações para vários tipos de saída: inteiro, string, etc..
 
@@ -113,7 +113,7 @@ Estes testes são direcionadas para o tipo de saídas das questões, este foi ex
 
 Na figura abaixo, mostra o procedimento para teste pela própria classe principal de cada questão, no caso esta questão e´a 3:
 
-![](C:\Workspaces\ws-java\capgemini-2\desafio2\imgs\tersteclassequestao.png)
+![](https://github.com/mig-ramos/desafio-capgemini/blob/main/imgs/tersteclassequestao.png)
 
 
 
@@ -121,6 +121,6 @@ Seleciona a classe principal da questão, escolhendo "rodar" como Java Applicati
 
 
 
-![](C:\Workspaces\ws-java\capgemini-2\desafio2\imgs\resultadoclassequestao.png)
+![](https://github.com/mig-ramos/desafio-capgemini/blob/main/imgs/resultadoclassequestao.png)
 
 Note que nesta classe temos vários prints para o console, facilitando a verificação do funcionamento nas transformação da informação.
