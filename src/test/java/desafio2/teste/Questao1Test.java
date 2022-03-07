@@ -14,6 +14,6 @@ public class Questao1Test {
 		
 		Questao1 q1 = new Questao1();
 		int elMediano = q1.elementoMediano(arr);
-		assertEquals(4, elMediano);
+		assertEquals(3, elMediano);
 	}
 }
